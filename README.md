@@ -4,3 +4,5 @@ The database includes different parameters of interest for each data point:
 - Initial experimental conditions:  pressure, temperature, and mixture composition.
 - Channel/tube information: hydraulic diameter, length, aspect ratio, ignition position, boundary condition, and cross-section type.
 - Multiple fundamental combustion properties for each mixture
+  
+  DOI 10.5281/zenodo.11214249
